@@ -1,0 +1,74 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+#limites{
+    width: 1200px;
+    height: 1000px;
+    background: #303030;
+    margin: 0.5em auto;
+    padding: 0.5em;
+
+}
+
+#header{
+    height: 20%;
+    background: #909497;
+    border-radius: 1em;
+    margin: 0.5em auto;
+}
+
+#login{
+    height: 10%;
+    height: 100px;
+    width: 150px;
+    background:  #4b2121;
+    border-radius: 1em;
+    margin: 0.5em auto;
+}
+#pestañas{
+    height: 5%;
+    background: #909497;
+    border-radius: 1em;
+    margin: 0.5em auto;
+}
+#contenido{
+    height: 50%;
+    background: #2f363b;
+    border-radius: 1em;
+}
+
+#final{
+    height: 10%;
+    background: #442241;
+    border-radius: 1em;
+    margin: 0.5em auto;
+}
+
+#listas{
+    width: 30%;
+    height: 95%;
+    background: #5c545b;
+    border-radius: 1em;
+    margin: 0.5em auto;
+    float: left;
+}
+
+#videos{
+    width: 68%;
+    height: 47%;
+    background: #5c545b;
+    border-radius: 1em;
+    margin: 0.5em auto;
+    float: right;
+}
+#imagenes{
+    width: 68%;
+    height: 42%;
+    background: #5c545b;
+    border-radius: 1em;
+    margin: 0.5em auto;
+    float: right;
+}
+
